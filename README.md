@@ -1,3 +1,10 @@
-# merge-conflict-lab
-college assignment/lab
+# Merge Conflict Lab
+## Student
+
 Joshua Nett
+
+## What I Learned
+
+- Honestly
+- Not
+- Much
